@@ -1,8 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed|Source+Sans+Pro&display=swap");
 * {
   /*border: 1px solid red;*/ }
 
 body {
-  margin: 0; }
+  margin: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #333;
+  font-size: 20px; }
+
+h1, h2, h3 {
+  font-family: 'Roboto Condensed', sans-serif; }
+
+h1 {
+  font-size: 3.5rem; }
+
+h2 {
+  font-size: 2.5rem; }
+
+h3 {
+  font-size: 2rem; }
+
+h4 {
+  font-size: 1.5rem; }
 
 .main-grid {
   display: grid;
