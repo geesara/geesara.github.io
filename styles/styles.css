@@ -39,6 +39,12 @@ h4 {
   padding: 20px;
   background-color: palegoldenrod; }
 
+.about-me-2-grid-item {
+  background-color: #f7df1e; }
+
+.about-me-3-grid-item {
+  background-color: #53c1de; }
+
 .about-me-text {
   padding: 20px;
   border: 1px solid #eee; }
@@ -48,8 +54,7 @@ h4 {
   height: 100%;
   display: flex;
   justify-content: center;
-  align-items: center;
-  background-color: yellow; }
+  align-items: center; }
   .icon-card .icon {
     font-size: 5rem; }
 
