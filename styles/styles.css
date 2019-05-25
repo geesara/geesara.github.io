@@ -61,7 +61,9 @@ h4 {
   height: 100%;
   display: flex;
   justify-content: center;
-  align-items: center; }
+  align-items: center;
+  padding: 20px 0;
+  box-sizing: border-box; }
   .icon-card .icon {
     font-size: 5rem; }
 
